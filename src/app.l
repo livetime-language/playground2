@@ -1,5 +1,5 @@
 app
-	Vector2 birdPos = {100,0}, birdSpeed = {10, 0}	
+	Vector2 birdPos = {10,0}, birdSpeed = {10, 0}	
 	tick
 		drawImage Bird, birdPos
 		drawImage Background
